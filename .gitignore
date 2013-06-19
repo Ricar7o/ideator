@@ -15,4 +15,5 @@
 /tmp
 
 vendor/bundle
+public/uploads
 .DS_Store

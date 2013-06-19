@@ -25,7 +25,6 @@ ActiveRecord::Schema.define(:version => 20130618211921) do
     t.string   "name"
     t.integer  "age"
     t.string   "address"
-    t.string   "image"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
